@@ -24,6 +24,7 @@ sudo apt install texlive-latex-extra
 
 # List of installed packages
 
+- [algorithmicx](https://mirrors.ctan.org/macros/latex/contrib/algorithmicx.zip)
 - [amsmath](https://mirrors.ctan.org/macros/latex/required/amsmath.zip)
 - [enumitem](https://mirrors.ctan.org/macros/latex/contrib/enumitem.zip)
 - [geometry](https://mirrors.ctan.org/macros/latex/contrib/geometry.zip)
