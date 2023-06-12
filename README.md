@@ -31,6 +31,7 @@ sudo apt install texlive-latex-extra
 - [enumitem](https://mirrors.ctan.org/macros/latex/contrib/enumitem.zip)
 - [geometry](https://mirrors.ctan.org/macros/latex/contrib/geometry.zip)
 - [graphics](https://mirrors.ctan.org/macros/latex/required/graphics.zip) (graphicx)
+- [preprint](https://mirrors.ctan.org/macros/latex/contrib/preprint.zip) (fullpage)
 - [pgf](https://www.ctan.org/pkg/pgf) (tikz)
 - [varwidth](https://mirrors.ctan.org/macros/latex/contrib/varwidth.zip)
 - [xcolor](https://mirrors.ctan.org/macros/latex/contrib/xcolor.zip)
